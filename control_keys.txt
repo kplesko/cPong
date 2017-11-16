@@ -1,0 +1,7 @@
+1: w s
+2: KEY_DOWN KEY_UP
+********************
+
+This file contains control keys information for every player in format:
+
+(name of a player): (key for up) (key for down)
